@@ -1,0 +1,11 @@
+"legislators-current.csv":
+  title: "human_friendly_name"
+  fetched_at: 2018-06-15
+  urls:
+    original: https://theunitedstates.io/congress-legislators/legislators-current.csv
+
+"legislators-historical.csv":
+  title: "human_friendly_name"
+  fetched_at: 2018-06-15
+  urls:
+    original: https://theunitedstates.io/congress-legislators/legislators-historical.csv
